@@ -1,0 +1,60 @@
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.deps.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.AssemblyReference.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfoInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CoreCompileInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CopyComplete
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.deps.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.AssemblyReference.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfoInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CoreCompileInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CopyComplete
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.deps.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.AssemblyReference.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfoInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfo.cs
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CoreCompileInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CopyComplete
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.deps.json
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.AssemblyReference.cache
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfoInputs.cache
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.AssemblyInfo.cs
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CoreCompileInputs.cache
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.csproj.CopyComplete
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\AlfaSales\PanacealogicsSales.Contracts\obj\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb

@@ -1,0 +1,45 @@
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.deps.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.dev.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.AssemblyReference.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfoInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.CoreCompileInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.genruntimeconfig.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.deps.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.dev.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.AssemblyReference.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfoInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfo.cs
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.CoreCompileInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.genruntimeconfig.cache
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.deps.json
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.json
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.runtimeconfig.dev.json
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\AlfaSales\PanacealogicsSales.Entities\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.AssemblyReference.cache
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfoInputs.cache
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.AssemblyInfo.cs
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.csproj.CoreCompileInputs.cache
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\AlfaSales\PanacealogicsSales.Entities\obj\Release\netcoreapp3.1\PanacealogicsSales.Entities.genruntimeconfig.cache

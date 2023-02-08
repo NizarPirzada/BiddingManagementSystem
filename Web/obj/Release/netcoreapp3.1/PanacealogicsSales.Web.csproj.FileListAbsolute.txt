@@ -1,0 +1,755 @@
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\nlog.config
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\appsettings.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.exe
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.deps.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.dev.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Antlr3.Runtime.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Azure.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\MySqlConnector.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\NLog.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\SQLite-net.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Text.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\WebGrease.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\xunit.abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\xunit.core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\xunit.execution.dotnet.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.AssemblyReference.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfoInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CoreCompileInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.Manifest.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.xml
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\scopedcss\bundle\PanacealogicsSales.Web.styles.css
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.RazorTargetAssemblyInfo.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CopyComplete
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\AccountOwnerServer\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.genruntimeconfig.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\nlog.config
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.exe
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.deps.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.dev.json
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Antlr3.Runtime.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Azure.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\MySqlConnector.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLite-net.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Json.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\WebGrease.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.abstractions.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.core.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.execution.dotnet.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.AssemblyReference.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfoInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CoreCompileInputs.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.Manifest.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.xml
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\scopedcss\bundle\PanacealogicsSales.Web.styles.css
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.RazorTargetAssemblyInfo.cache
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CopyComplete
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+E:\Fazal Abbas\Panacea\previous\5.8.1\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.genruntimeconfig.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\nlog.config
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.exe
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.deps.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.dev.json
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Antlr3.Runtime.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Azure.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\MySql.Data.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\MySqlConnector.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLite-net.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\WebGrease.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.abstractions.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.core.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.AssemblyReference.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfoInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfo.cs
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CoreCompileInputs.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.Manifest.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.xml
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\scopedcss\bundle\PanacealogicsSales.Web.styles.css
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.RazorTargetAssemblyInfo.cache
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CopyComplete
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+D:\Fazal Abbas\PanaceaSales\asp.net-core\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.genruntimeconfig.cache
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\nlog.config
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\appsettings.json
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.exe
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.deps.json
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.json
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.runtimeconfig.dev.json
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Antlr3.Runtime.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Azure.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Certificate.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\MySql.Data.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\MySqlConnector.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLite-net.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Text.Json.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\WebGrease.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.abstractions.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.core.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\xunit.execution.dotnet.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Entities.pdb
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.LoggerService.pdb
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Repository.pdb
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\PanacealogicsSales.Contracts.pdb
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.AssemblyReference.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfoInputs.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.AssemblyInfo.cs
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CoreCompileInputs.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.Manifest.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\staticwebassets\PanacealogicsSales.Web.StaticWebAssets.xml
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\scopedcss\bundle\PanacealogicsSales.Web.styles.css
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.RazorTargetAssemblyInfo.cache
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.csproj.CopyComplete
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.dll
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.pdb
+D:\AlfaSales\PanacealogicsSales.Web\obj\Release\netcoreapp3.1\PanacealogicsSales.Web.genruntimeconfig.cache
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\System.Web.Http.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AlfaSales\PanacealogicsSales.Web\bin\Release\netcoreapp3.1\Swashbuckle.Core.dll
